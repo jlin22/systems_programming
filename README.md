@@ -4,7 +4,7 @@ Resources for learning systems programming
 Books
 * Linux Systems Programming, 2nd Edition
 * https://github.com/angrave/SystemProgramming/wiki
-* Advanced Programming
+* Advanced Linux Programming
 * Operating Systems, Design and Implementation
 * Unix Power Tools
 * Unix for the Impatient
